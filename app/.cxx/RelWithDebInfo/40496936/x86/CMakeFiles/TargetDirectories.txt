@@ -1,0 +1,2 @@
+/Users/sheesali/Desktop/Ambit-Pro/android/app/.cxx/RelWithDebInfo/40496936/x86/CMakeFiles/edit_cache.dir
+/Users/sheesali/Desktop/Ambit-Pro/android/app/.cxx/RelWithDebInfo/40496936/x86/CMakeFiles/rebuild_cache.dir
